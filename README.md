@@ -41,7 +41,7 @@ Eu sou uma desenvolvedora fullstack em formação, conheci a área de programaç
 
 👩‍💻 Em transição de carreira 
 
-👯‍♀️ Procuro colaborar em projetos onde eu possa aprender e colaborar em resultados significativos
+👯‍♀️ Procuro colaborar em projetos onde eu possa aprender e contribuir em resultados significativos
 
 #### ⚡️ Fun Facts
 - Desenvolvedora marombeira
