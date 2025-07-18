@@ -30,7 +30,7 @@
 
 
 
-Eu sou uma desenvolvedora fullstack em formação, conheci a área de programação durante minha graduação em Produção Multimídia no IFSC e desde então, venho buscando aprender cada vez mais e evoluir cada vez mais na área do desenvolvimento. A linguagem que mais venho estudando é o JavaScript/TypeScript e tenho conhecimento de MySQL, HTML, CSS, um pouco de C#, e frameworks como NestJS e React. Aqui no meu GitHub estão todos meus projetos de estudo e prática, registrando a trajetória do meu aprendizado.
+Eu sou uma desenvolvedora fullstack em formação, conheci a área de programação durante minha graduação em Produção Multimídia no IFSC e desde então, venho buscando aprender e evoluir cada vez mais na área do desenvolvimento. A linguagem que mais venho estudando é o JavaScript/TypeScript e tenho conhecimento de MySQL, HTML, CSS, um pouco de C#, e frameworks como NestJS e React. Aqui no meu GitHub estão todos meus projetos de estudo e prática, registrando a trajetória do meu aprendizado.
 
 ## 🔗 Contato
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/moniqueohana)
