@@ -47,3 +47,7 @@ Eu sou uma desenvolvedora fullstack em formação, conheci a área de programaç
 - Desenvolvedora marombeira
 - Viciada em Sudoku
 - Consumidora assídua de podcasts dos mais diversos assuntos
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoniqueOhana&layout=compact&theme=dracula)
+
