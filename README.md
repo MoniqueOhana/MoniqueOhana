@@ -48,6 +48,10 @@ Eu sou uma desenvolvedora fullstack em formação, conheci a área de programaç
 - Viciada em Sudoku
 - Consumidora assídua de podcasts dos mais diversos assuntos
 
+## Estatísticas 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoniqueOhana&layout=compact&theme=dracula)
+
+![Monique GitHub stats](https://github-readme-stats.vercel.app/api?username=MoniqueOhana&show_icons=true&theme=dracula)
+
 
